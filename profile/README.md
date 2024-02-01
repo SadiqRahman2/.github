@@ -1,3 +1,7 @@
-# Worken SDK
+# Paidwork
 
-Official Worken SDK that lets you make or receive Worken (WORK) payments from users for your application
+Tokenomics for the freelancers and apps.
+
+You can find the code for our various products and components in this org.
+
+For general information, visit [paidwork.com](https://www.paidwork.com/)paidwork.com.
