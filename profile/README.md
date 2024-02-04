@@ -1,5 +1,3 @@
-# Paidwork
-
 <br />
 <p align="center">
   <img src="https://zrcdn.net/images/logos/paidwork/paidwork-logo-header-mobile-bitlabs.png" alt="Paidwork" />
