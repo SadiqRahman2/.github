@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-  Make and receive secure transactions with Worken
+  Make & Receive secure Web3 transactions with Worken
 </h3>
 <p align="center">
   <a href="https://www.paidwork.com/?utm_source=github.com&utm_medium=referral&utm_campaign=readme">🚀 Over 15M+ Users using WORK!</a>
