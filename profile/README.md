@@ -30,8 +30,6 @@
     </a>
 </p>
 
-Worken is a payment processing product that helps you process Blockchain payments for your mobile and web applications. We provide a fast and easy way to handle online Worken payments.
+Worken is a payment processing product that helps you process Blockchain payments for your mobile and web applications. We provide a fast and easy way to handle online Worken payments. <a href="https://www.paidwork.com/worken?utm_source=github.com&utm_medium=referral&utm_campaign=readme" target="_blank">Read more</a> about Worken Token.
 
 At Paidwork, we support different technologies through our SDKs and our REST & GraphQL API endpoints.
-
-<a href="https://www.paidwork.com/worken?utm_source=github.com&utm_medium=referral&utm_campaign=readme" target="_blank">Read more</a> about Worken Token
