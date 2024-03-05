@@ -30,4 +30,4 @@
     </a>
 </p>
 
-SDK library providing access to make easy and secure transactions with Worken
+Connect to the WORK economy and integrate library into your project.
